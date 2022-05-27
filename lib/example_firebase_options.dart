@@ -40,20 +40,20 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyBCpFFWvjq0SbbyzCEHnvEDkt5FI9by38g',
-    appId: '1:845718089385:android:252f7238a859f3162bc3b8',
-    messagingSenderId: '845718089385',
-    projectId: 'presence-ca834',
-    storageBucket: 'presence-ca834.appspot.com',
+    apiKey: 'xxxxx',
+    appId: 'xxx',
+    messagingSenderId: 'xxx',
+    projectId: 'xxx',
+    storageBucket: 'xxx',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyAGd2xRRkxcBnguh6sLB_X_rjMHS5zEqnY',
-    appId: '1:845718089385:ios:eb5db645c641137f2bc3b8',
-    messagingSenderId: '845718089385',
-    projectId: 'presence-ca834',
-    storageBucket: 'presence-ca834.appspot.com',
-    iosClientId: '845718089385-kob6rbe7m2l94675t6afl5ubntkq0s98.apps.googleusercontent.com',
-    iosBundleId: 'com.fredynur.presence',
+    apiKey: 'xxx',
+    appId: 'xxx',
+    messagingSenderId: 'xxx',
+    projectId: 'xxx',
+    storageBucket: 'xxx',
+    iosClientId: 'xxx',
+    iosBundleId: 'xxx',
   );
 }
