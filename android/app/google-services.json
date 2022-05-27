@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "845718089385",
+    "project_id": "presence-ca834",
+    "storage_bucket": "presence-ca834.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:845718089385:android:252f7238a859f3162bc3b8",
+        "android_client_info": {
+          "package_name": "com.fredynur.presence"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "845718089385-721cucgakscc2994n9g60obign1km2f0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCpFFWvjq0SbbyzCEHnvEDkt5FI9by38g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "845718089385-721cucgakscc2994n9g60obign1km2f0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
